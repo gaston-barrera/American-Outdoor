@@ -1,0 +1,22 @@
+nav {background: red;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+ul { color: white;}
+
+footer { background:black;
+color: white;}
+article{ margin-bottom: 20px;}
+article  div{ 
+height: auto;
+}
+
+
+
+
+
+article p {
+margin-top :20px;}
+
+
+

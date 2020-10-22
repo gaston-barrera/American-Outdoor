@@ -1,0 +1,41 @@
+nav {background: red;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+ul { color: white;}
+
+article { 
+    margin-bottom:200px;
+    margin-top: 100px;
+ 
+;}
+
+article img {width: 100%;
+    box-shadow: 14px 12px 11px -10px rgba(64,58,64,0.56);;
+}
+
+section {margin-bottom: 20px;
+    }
+
+    section img { width: 100%;
+        box-shadow: 14px 12px 11px -10px rgba(64,58,64,0.56);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer { 
+    
+    background:black;
+    color: white;}
+
+    
